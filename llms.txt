@@ -1,4 +1,4 @@
-# Quinton Hill Concierge Services
+﻿# Quinton Hill Concierge Services
 
 > Uganda's premier business concierge — simplifying business registration, travel, relocation, and investment in Kampala since 2015.
 
@@ -80,16 +80,16 @@ Executive and personal concierge for busy professionals, expatriates, and organi
 
 ## Key Pages
 
-- [Home](https://quintonhill.co.ug/): Overview, editorial services layout, client testimonials
-- [Services](https://quintonhill.co.ug/services): Full service breakdowns with detailed bullet lists
-- [Business Registration Uganda](https://quintonhill.co.ug/services/business-registration): URSB company registration, KCCA trading licences, URA TIN — fees, timelines, entity types
-- [Travel & Immigration Uganda](https://quintonhill.co.ug/services/travel): Uganda e-visa, work permits (Class G USD 2,500/yr), police clearance, airport facilitation
-- [Relocation to Kampala](https://quintonhill.co.ug/services/relocation): Neighbourhoods, rental prices, international schools, banking, cost of living data
-- [Investment Due Diligence Uganda](https://quintonhill.co.ug/services/due-diligence): Land tenure types, fraud risk, Investor Confidence Report™, verification checklist
-- [Concierge & Lifestyle Kampala](https://quintonhill.co.ug/services/concierge): Executive PA, fine dining reservations, healthcare concierge, VIP services
-- [Exclusive Events & VIP Access Kampala](https://quintonhill.co.ug/services/events): Private parties, milestone galas, entertainment booking (DJs, live bands, cultural performers), VIP nightlife access, Lake Victoria boat events, private venue buyouts, VVIP guest protocol in Kampala
-- [About](https://quintonhill.co.ug/about): Mission, team, company registration number, founder biography
-- [Our Process](https://quintonhill.co.ug/process): 4-step engagement process with timeframes
-- [Client Stories](https://quintonhill.co.ug/clients): Testimonials from 200+ clients
-- [Uganda Business Guide](https://quintonhill.co.ug/faq): Answers to common questions about doing business, travelling, and relocating in Uganda
-- [Contact](https://quintonhill.co.ug/contact): Enquiry form, direct contacts, office hours
+- [Home](https://quintonhillconcierge.com/): Overview, editorial services layout, client testimonials
+- [Services](https://quintonhillconcierge.com/services): Full service breakdowns with detailed bullet lists
+- [Business Registration Uganda](https://quintonhillconcierge.com/services/business-registration): URSB company registration, KCCA trading licences, URA TIN — fees, timelines, entity types
+- [Travel & Immigration Uganda](https://quintonhillconcierge.com/services/travel): Uganda e-visa, work permits (Class G USD 2,500/yr), police clearance, airport facilitation
+- [Relocation to Kampala](https://quintonhillconcierge.com/services/relocation): Neighbourhoods, rental prices, international schools, banking, cost of living data
+- [Investment Due Diligence Uganda](https://quintonhillconcierge.com/services/due-diligence): Land tenure types, fraud risk, Investor Confidence Report™, verification checklist
+- [Concierge & Lifestyle Kampala](https://quintonhillconcierge.com/services/concierge): Executive PA, fine dining reservations, healthcare concierge, VIP services
+- [Exclusive Events & VIP Access Kampala](https://quintonhillconcierge.com/services/events): Private parties, milestone galas, entertainment booking (DJs, live bands, cultural performers), VIP nightlife access, Lake Victoria boat events, private venue buyouts, VVIP guest protocol in Kampala
+- [About](https://quintonhillconcierge.com/about): Mission, team, company registration number, founder biography
+- [Our Process](https://quintonhillconcierge.com/process): 4-step engagement process with timeframes
+- [Client Stories](https://quintonhillconcierge.com/clients): Testimonials from 200+ clients
+- [Uganda Business Guide](https://quintonhillconcierge.com/faq): Answers to common questions about doing business, travelling, and relocating in Uganda
+- [Contact](https://quintonhillconcierge.com/contact): Enquiry form, direct contacts, office hours

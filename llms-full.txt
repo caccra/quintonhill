@@ -1,4 +1,4 @@
-# Quinton Hill Concierge Services — Full Content Index
+﻿# Quinton Hill Concierge Services — Full Content Index
 
 > This file provides comprehensive machine-readable content for AI language models and search crawlers. For structured metadata, see llms.txt.
 
@@ -11,7 +11,7 @@
 **Founded:** 2015
 **Founder:** Quinton Hill, Managing Director
 **Location:** Plot 28 Upper Kololo Terrace, Kololo, Kampala, Uganda
-**Website:** https://quintonhill.co.ug
+**Website:** https://quintonhillconcierge.com
 **Email:** hello@quintonhillconcierge.com | quintonhillconcierge@gmail.com
 **Phone:** +256 770 972 956 | +256 708 647 752
 **Office Hours:** Monday to Friday 8:00 AM–6:00 PM · Saturday 9:00 AM–1:00 PM
