@@ -1,0 +1,13 @@
+Options -Indexes
+RewriteEngine On
+
+# Strip trailing slashes (except root)
+RewriteRule ^(.+)/$ /$1 [R=301,L]
+
+# Serve file directly if it already exists
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+# Add .html extension for extensionless URLs
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^(.*)$ $1.html [L]
