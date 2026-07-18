@@ -166,6 +166,10 @@ footer{background:var(--deep-navy);padding:72px 48px 36px;border-top:1px solid v
 .ft-col ul{list-style:none;display:flex;flex-direction:column;gap:10px}
 .ft-col ul li a{font-size:13px;color:var(--ivory-muted);transition:color .2s}
 .ft-col ul li a:hover{color:var(--ivory)}
+.footer-social{display:flex;gap:10px;margin-top:18px}
+.footer-soc-icon{display:flex;align-items:center;justify-content:center;width:34px;height:34px;border:1px solid var(--border);border-radius:50%;color:var(--ivory-muted);transition:border-color .25s,color .25s;text-decoration:none}
+.footer-soc-icon:hover{border-color:var(--cerulean-b);color:var(--cerulean-b)}
+.footer-soc-icon svg{width:15px;height:15px;display:block}
 .ft-bottom{display:flex;align-items:center;justify-content:space-between;padding-top:28px;border-top:1px solid var(--border)}
 .ft-copy{font-size:12px;color:var(--ivory-ghost)}
 .ft-legal{display:flex;gap:24px}
@@ -184,7 +188,11 @@ footer{background:var(--deep-navy);padding:72px 48px 36px;border-top:1px solid v
   .ov-img{display:none}
   .tenure-grid,.inc-grid,.related-grid,.flags-grid{grid-template-columns:1fr}
   .ft-top{grid-template-columns:1fr 1fr;gap:36px}
-  .ft-bottom{flex-direction:column;gap:16px;text-align:center}
+  .footer-social{display:flex;gap:10px;margin-top:18px}
+.footer-soc-icon{display:flex;align-items:center;justify-content:center;width:34px;height:34px;border:1px solid var(--border);border-radius:50%;color:var(--ivory-muted);transition:border-color .25s,color .25s;text-decoration:none}
+.footer-soc-icon:hover{border-color:var(--cerulean-b);color:var(--cerulean-b)}
+.footer-soc-icon svg{width:15px;height:15px;display:block}
+.ft-bottom{flex-direction:column;gap:16px;text-align:center}
   footer{padding:48px 24px 28px}
   .btn-ghost{margin-left:0;margin-top:12px;display:block;width:fit-content;margin:12px auto 0}
 }
@@ -423,6 +431,17 @@ footer{background:var(--deep-navy);padding:72px 48px 36px;border-top:1px solid v
         <div class="ft-brand-name">Quinton Hill</div>
         <div class="ft-brand-sub">Concierge</div>
         <p class="ft-tagline">Uganda's premier business concierge, serving investors and executives since 2015.</p>
+        <div class="footer-social">
+          <a href="https://www.instagram.com/quintonhillconciergeug/" target="_blank" rel="noopener" class="footer-soc-icon" aria-label="Instagram">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".5" fill="currentColor" stroke="none"/></svg>
+          </a>
+          <a href="https://wa.me/256770972956" target="_blank" rel="noopener" class="footer-soc-icon" aria-label="WhatsApp">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 11.5a8.38 8.38 0 01-.9 3.8 8.5 8.5 0 01-7.6 4.7 8.38 8.38 0 01-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 01-.9-3.8 8.5 8.5 0 014.7-7.6 8.38 8.38 0 013.8-.9h.5a8.48 8.48 0 018 8v.5z"/></svg>
+          </a>
+          <a href="https://www.facebook.com/quintonhillconciergeug/" target="_blank" rel="noopener" class="footer-soc-icon" aria-label="Facebook">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+          </a>
+        </div>
       </div>
       <div class="ft-col">
         <h4>Services</h4>
@@ -449,7 +468,7 @@ footer{background:var(--deep-navy);padding:72px 48px 36px;border-top:1px solid v
         <h4>Contact</h4>
         <ul>
           <li><a href="mailto:quintonhillconcierge@gmail.com">quintonhillconcierge@gmail.com</a></li>
-          <li><a href="tel:+256700000000">+256 700 000 000</a></li>
+          <li><a href="tel:+256770972956">+256 770 972 956</a></li>
           <li><a href="#">Kampala, Uganda</a></li>
         </ul>
       </div>
