@@ -72,7 +72,7 @@ function buildEmailHtml(d) {
       <p style="margin:0;font-size:14px;color:#ddd;line-height:1.7;white-space:pre-wrap">${d.message || '—'}</p>
     </div>
     <div style="background:#0d0d0d;padding:14px 24px;border-top:1px solid rgba(201,168,76,.1)">
-      <p style="margin:0;font-size:11px;color:#555">Sent via quintonhill.co.ug contact form</p>
+      <p style="margin:0;font-size:11px;color:#555">Sent via quintonhillconcierge.com contact form</p>
     </div>
   </div>
 </body>
@@ -116,8 +116,11 @@ http.createServer(async (req, res) => {
   if (urlPath === '/') urlPath = '/index.html';
 
   let filePath = path.join(ROOT, urlPath);
-  if (!path.extname(urlPath) && !fs.existsSync(filePath)) {
-    filePath = path.join(ROOT, urlPath + '.html');
+  if (!path.extname(urlPath)) {
+    const stat = fs.existsSync(filePath) ? fs.statSync(filePath) : null;
+    if (!stat || stat.isDirectory()) {
+      filePath = path.join(ROOT, urlPath + '.html');
+    }
   }
 
   fs.readFile(filePath, (err, data) => {
